@@ -18,6 +18,12 @@ found [here](http://dublincore.org/schemas/xmls/simpledc20021212.xsd).
 An example instance for `gtr_dc.xsd`:
 [`gtr_dc_example.xml`](gtr_dc_example.xml).
 
+## Project Website
+
+The project website (and the namespace URL) is on
+<http://martin.hoppenheit.info/code/generic-tree-xml>. The source code can be
+found on [GitHub](https://github.com/marhop/generic-tree-xml).
+
 ## TODO
 
 * More introductory information.
