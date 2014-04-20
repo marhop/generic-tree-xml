@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gtr:tree xmlns:gtr="http://martin.hoppenheit.info/code/generic-tree-xml"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+    <gtr:node name="Hierarchy level 1">
+        <gtr:node name="Hierarchy level 1.1">
+            <gtr:node>
+                <gtr:content type="Dublin Core">
+                    <dc:title>foo</dc:title>
+                    <dc:creator>bar</dc:creator>
+                </gtr:content>
+            </gtr:node>
+            <gtr:node>
+                <gtr:content type="Dublin Core">
+                </gtr:content>
+            </gtr:node>
+        </gtr:node>
+        <gtr:node name="Hierarchy level 1.2">
+            <gtr:node>
+                <gtr:content type="Dublin Core">
+                </gtr:content>
+            </gtr:node>
+        </gtr:node>
+    </gtr:node>
+    <gtr:node name="Hierarchy level 2">
+        <gtr:node>
+            <gtr:content type="Dublin Core">
+            </gtr:content>
+        </gtr:node>
+    </gtr:node>
+
+</gtr:tree>
