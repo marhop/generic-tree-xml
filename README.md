@@ -1,5 +1,7 @@
 # Generic Tree XML schema
 
+Adding an overall hierarchical structure to arbitrary XML records.
+
 ## Rationale
 
 The Generic Tree XML schema can be used to add a hierarchical structure to
